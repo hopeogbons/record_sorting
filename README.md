@@ -1,2 +1,2 @@
 # record_sorting
-Recording sorting using useState
+Record sorting using useState
